@@ -1,0 +1,6 @@
+org/linkcheck/ContactController.class
+org/linkcheck/ShortContact.class
+org/linkcheck/ContactRepository.class
+org/linkcheck/ContactRegistrar.class
+org/linkcheck/LinkChecksApplication.class
+org/linkcheck/Contact.class
